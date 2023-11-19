@@ -3,8 +3,9 @@ apt update && apt upgrade
 
 apt install git
 
-git clone https://github.com/Galirus404/DEFACE
+git clone https://github.com/mrdanz63487r/Ysy
 
-cd DEFACE
+cd Ysy
 
 bash deface.sh
+
